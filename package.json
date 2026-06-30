@@ -1,0 +1,26 @@
+{
+  "name": "somiibo-social-media-marketing-tool",
+  "version": "1.0.0",
+  "description": "Social Media Marketing Tool grows your social media presence with automated engagement and marketing",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "social-media-marketing",
+    "marketing-tool",
+    "automation",
+    "growth-hacking",
+    "social-media",
+    "javascript",
+    "nodejs",
+    "saas"
+  ],
+  "author": "Somiibo",
+  "license": "ISC",
+  "homepage": "https://somiibo.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somiibo/social-media-marketing-tool.git"
+  }
+}
